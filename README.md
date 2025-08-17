@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+If find that a good thing about coding is that it gives you the power to create everything you can think of in this digital world.
+It's just the ``bugs`` that bug you.
+
+But they are not as bad as you think, they are much worse.
+Resolving Bugs is a special kind of mystery where you get to be both the detective and the killer. The crime is always the same: "Build Failed" After hours of searching for clues, you find the murder weapon-a single missing semicolon. And the motive? Sheer, unadulterated carelessness at 2 AM. Honestly, it's moments like these that makes me think living in caves wasn't such a bad idea afterall.😤😈
+But, really it's the victory over these that are the sweetest of all. 😎🥳
+
+
+
+
 <!--
 **Gabbar888/Gabbar888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
