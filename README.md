@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-If find that a good thing about coding is that it gives you the power to create everything you can think of in this digital world.
-It's just the ``bugs`` that bug you.
+The best thing about coding is having the power to create anything you can imagine in the digital world.
 
-But they are not as bad as you think, they are much worse.
-Resolving Bugs is a special kind of mystery where you get to be both the detective and the killer. The crime is always the same: "Build Failed" After hours of searching for clues, you find the murder weapon-a single missing semicolon. And the motive? Sheer, unadulterated carelessness at 2 AM. Honestly, it's moments like these that makes me think living in caves wasn't such a bad idea afterall.😤😈
-But, really it's the victory over these that are the sweetest of all. 😎🥳
+It’s just the bugs that get in the way. And they aren't just bad, they're much, much worse.
 
+Fixing a bug is like being the detective and the killer in a mystery. The crime is always the same: "Build Failed." After hours of searching for clues, you find the murder weapon—a single missing semicolon. And the motive? You were just being careless at 2 AM.
 
+Honestly, moments like these make me think living in caves wasn't such a bad idea after all. 😤😈
+
+But really, the victory you feel after crushing those bugs is the sweetest of all. 😎🥳
 
 
 <!--
