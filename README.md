@@ -1,27 +1,11 @@
-## Hi there 👋
+The best thing about coding is having the power to create anything you can imagine. It’s just the bugs that get in the way. 
 
-The best thing about coding is having the power to create anything you can imagine in the digital world.
+Fixing a bug is like being both the detective and the killer in a mystery. After hours of searching for clues as to why the model crashed, you find the murder weapon: a `RuntimeError: size mismatch` at layer 42. And the motive? You were just being careless with your tensor shapes at 3 AM. Moments like these make me think living in caves wasn't so bad. 😤
 
-It’s just the bugs that get in the way. And they aren't just bad, they're much, much worse.
+But the victory of finally crushing those bugs—and seeing the loss curve drop—is the sweetest of all. 😎
 
-Fixing a bug is like being the detective and the killer in a mystery. The crime is always the same: "Build Failed." After hours of searching for clues, you find the murder weapon—a single missing semicolon. And the motive? You were just being careless at 2 AM.
-
-Honestly, moments like these make me think living in caves wasn't such a bad idea after all. 😤😈
-
-But really, the victory you feel after crushing those bugs is the sweetest of all. 😎🥳
-
-
-<!--
-**Gabbar888/Gabbar888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**When I'm not playing detective, here is what I actually do:**
+*  **Background:** Final-year Statistics and Data Science undergrad (ML Minor) at IIT Kanpur.
+*  **AI/ML Focus:** LLMs, Transformers, Reinforcement Learning (RLHF/DPO), and evaluating Knowledge Graphs.
+*  **Systems & Infra:** CUDA/GPU optimization, multi-GPU training pipelines, and DBMS internals (B+ trees, join optimizations).
+*  **Experience:** Former Developer Intern at Samsung Research Institute Bangalore.
